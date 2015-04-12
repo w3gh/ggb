@@ -1,0 +1,2 @@
+# GGB
+Ghost++ Games Broadcaster
